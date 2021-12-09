@@ -1,0 +1,391 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #0d0d0d;
+}
+.header img{
+    margin-top: 18px;
+    margin-left: 30px;
+}
+.mobile{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 480px;
+    margin-left: 1250px;
+    background-color: #d8db4c;
+    position: fixed;
+}
+.mobile p{
+    margin: 0px;
+    color: black;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.para p{
+    margin-top: 30px;
+    margin-left: 750px;
+    cursor: pointer;
+    color: #ffff;
+}
+.para1{
+    margin-top: 28px;
+    margin-left: 25px;
+    color: #9fa1a2;
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.para2{
+    margin-left: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: #d7df23;
+}
+.para2 p{
+    margin: 0px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.top{
+    height: 551px;
+    width: 100%;
+    background-image: url(bg1.jpg);
+    box-sizing: border-box;
+}
+.top p{
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 480px;
+    padding-top: 180px;
+}
+.topbox{
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 10px;
+    width: 90%;
+    height: 55px;
+    border-radius: 8px;
+}
+.inbox{
+    height: 98%;
+    width: 17%;
+    border: 1px solid #dddfe2;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.boxend{
+    height: 97%;
+    width: 15%;
+    background-color: #d7df23;
+    border: 1px solid #dddfe2;
+    border-radius: 8px;
+}
+.car{
+    height: 38px;
+    width: 38px;
+    margin-left: 30px;
+    float: left;
+}
+.bike{
+    height: 41px;
+    width: 41px;
+    margin-left: 40px;
+}
+.boxend pre{
+    margin-top: 13px;
+    margin-left: 60px;
+    font-size: 25px;
+}
+.location{
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+.preall{
+    margin-top: 14px; 
+}
+.preall1{
+    margin-top: 17px; 
+}
+.why{
+    width: 100%;
+    height: 90px;
+    
+}
+.line{
+    width: 35%;
+    height:100px;
+
+
+}
+.line1{
+    width: 45px;
+    margin-top: 65px;
+    margin-left: 90%;
+}
+.people p{
+    margin-top: 45px;    
+    font-size: 30px;
+}
+.line2{
+    margin-top: 65px;
+    width: 45px;
+    margin-left: 2px;
+}
+.line3{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.third{
+    width: 100%;
+    height: 300px;
+}
+.one{
+    width: 25%;
+    height: 100%;
+   
+}
+.two{
+    width: 16%;
+    height: 100%;
+    
+}
+.three{
+    width: 16%;
+    height: 100%;
+    
+}
+.four{
+    width: 16%;
+    height: 100%;
+    
+}
+.five{
+    width: 25%;
+    height: 100%;
+
+}
+.one img{
+    margin-top: 60px;
+    margin-left: 60%;
+}
+.two img{
+    margin-top: 60px;
+    margin-left: 40%;
+}
+.three img{
+    margin-top: 60px;
+    margin-left: 40%;
+}
+.four img{
+    margin-top: 60px;
+    margin-left: 40%;
+}
+.five img{
+    margin-top: 60px;
+    margin-left: 20%;
+}
+.one h3{
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.one p{
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.two h3{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.two p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.three h3{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.three p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.four h3{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.four p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.five h3{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.five p{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.border{
+    border-right: 2px solid #dddfe2;
+}
+
+.needs{
+    margin-left: 35%;
+    font-size: 25px;
+    color: #777;
+}
+.hrline{
+    margin-left: 40%;
+    margin-right: 50%;
+
+}
+
+.any{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    background-image: url(tent.png);
+    background-repeat: no-repeat;
+    background-position-x: 200px;
+    background-position-y: 50px;
+}
+.price{
+    width: 200px;
+    height: 20px;
+    background-color: #888f06;
+    margin-left: 70%;
+    margin-top: 30px;
+    color: white;
+}
+
+.carinfo{
+    margin-top: 120px;
+    margin-left: 100px;
+    width: 500px;
+    height: 100px;
+}
+.innova{
+    margin-top: 200px;
+    width: 650px;
+    height: 190px;
+    background-image: url(innova.png);
+    background-repeat: no-repeat;
+    margin-left: 10px;
+
+}
+.carinfo h5{
+    margin-left: 30%;
+    margin-top: 50px;
+    font-size: 20px;
+    color: #888f06;
+
+}
+.carinfo p{
+    font-size: 30px;
+    margin-left: 28%;
+
+}
+.avail{
+    width: 170px;
+    height: 100px;
+    border-right: 2px solid #0d0d0d ;
+}
+.avail pre{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.part4{
+    background-image: url(back.jpg);
+    width: 100%;
+    height: 245px;
+}
+.part4 h2{
+    margin-left: 280px;
+    padding: 20px;
+    color: #ffff;
+    font-size: 30px;
+
+}
+.part4 p{
+    margin-left: 300px;
+    color: #ffff;
+}
+.part4 input{
+    margin-left: 700px;
+    margin-top: 20px;
+    background-color: #6c757d;
+    border-radius: 8px;
+    height: 35px;
+    font-weight: bold;
+    color: #ffff;
+}
+.adds{
+    height: 200px;
+    width: 100%;
+    background-image: url(adds.jpg);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+}
+.nearby{
+    width: 100%;
+    height: 150px;
+    background-color: #191919;
+}
+.nearby h5{
+    color: white;
+    padding-top: 30px;
+    margin-left: 700px;
+    font-size: 15px;
+}
+.place{
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.link{
+    color: #888f06;
+}
+.footer{
+    width: 100%;
+    height: 230px;
+    background-color: #191919;
+}
+.firs{
+    color: white;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.sec{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+.thir{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+.forth{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+.fifth{
+    margin-top: 50px;
+    margin-left: 55px;
+    color: white;
+}
+.read :hover{
+    background-color: black;
+}
